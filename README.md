@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**cng07/cng07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I’m Carlos Ng
 
 **Test Automation Engineer**  
@@ -38,17 +21,6 @@ I’m a Test Automation Engineer with hands-on experience designing and maintain
 - **Testing:** UI Testing, API Testing (Postman, Bruno)  
 - **CI/CD:** GitHub Actions, Azure DevOps  
 - **Other:** Git
-
----
-
-## 🚀 Featured Projects
-- **Playwright UI + API Automation Framework**  
-  Scalable automation framework combining UI and API testing using TypeScript  
-  👉 https://github.com/cng07
-
-- **Personal Portfolio Website**  
-  Showcasing my experience, skills, and projects  
-  👉 https://carlosng07.vercel.app
 
 ---
 
