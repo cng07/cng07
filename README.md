@@ -17,7 +17,7 @@ I’m a Test Automation Engineer with hands-on experience designing and maintain
 
 ## 🛠 Tech Stack
 - **Automation:** Playwright, Selenium WebDriver  
-- **Languages:** TypeScript, Java  
+- **Languages:** TypeScript, JavaScript, Java  
 - **Testing:** UI Testing, API Testing (Postman, Bruno)  
 - **CI/CD:** GitHub Actions, Azure DevOps  
 - **Other:** Git
