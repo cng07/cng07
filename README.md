@@ -6,26 +6,28 @@ Playwright • TypeScript • UI & API Testing • CI/CD
 ---
 
 ## About Me
-I’m a Test Automation Engineer with hands-on experience designing and maintaining automated test frameworks for web applications and APIs. I enjoy building clean, scalable automation solutions and integrating them into CI/CD pipelines to support fast and reliable releases.
+I’m a Test Automation Engineer with 7+ years of experience building and maintaining scalable test automation frameworks for web and API systems.
 
-- Strong background in UI and API test automation
-- Experienced in Playwright and Selenium WebDriver
-- Comfortable integrating tests into GitHub Actions and Azure DevOps
-- Continuously improving framework design and test reliability
+My focus is on reliability, maintainability, and fast feedback pipelines—ensuring test suites provide real value in CI/CD rather than becoming bottlenecks.
+
+Designed modular automation frameworks using Playwright and TypeScript
+Implemented API + DB validation strategies for end-to-end test coverage
+Integrated automated tests into CI pipelines (GitHub Actions, Azure DevOps)
+Improved test stability through proper synchronization, fixtures, and data control
 
 ---
 
 ## Tech Stack
 - **Automation:** Playwright, Selenium WebDriver  
-- **Languages:** TypeScript, JavaScript, Java, Python
-- **Testing:** UI Testing, API Testing (Postman, Bruno)  
+- **Languages:** TypeScript, JavaScript, Java, Python, SQL
+- **Manual Testing:** UI, API, DB
 - **CI/CD:** GitHub Actions, Azure DevOps  
 - **Other:** Git
 
 ---
 
 ## Portfolio
-🔗 https://carlosng07.vercel.app
+- https://carlosng07.vercel.app
 
 ---
 
@@ -33,6 +35,3 @@ I’m a Test Automation Engineer with hands-on experience designing and maintain
 - GitHub: https://github.com/cng07  
 - LinkedIn: https://www.linkedin.com/in/carlosng07/
 
----
-
-I enjoy collaborating on automation projects and learning new tools that improve software quality.
